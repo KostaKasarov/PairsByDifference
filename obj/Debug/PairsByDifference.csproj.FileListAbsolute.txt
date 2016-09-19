@@ -1,0 +1,6 @@
+C:\Users\kgkkt\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsExamUPR\PairsByDifference\bin\Debug\PairsByDifference.exe.config
+C:\Users\kgkkt\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsExamUPR\PairsByDifference\bin\Debug\PairsByDifference.exe
+C:\Users\kgkkt\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsExamUPR\PairsByDifference\bin\Debug\PairsByDifference.pdb
+C:\Users\kgkkt\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsExamUPR\PairsByDifference\obj\Debug\PairsByDifference.csprojResolveAssemblyReference.cache
+C:\Users\kgkkt\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsExamUPR\PairsByDifference\obj\Debug\PairsByDifference.exe
+C:\Users\kgkkt\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsExamUPR\PairsByDifference\obj\Debug\PairsByDifference.pdb
